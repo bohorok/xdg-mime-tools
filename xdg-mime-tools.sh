@@ -33,7 +33,7 @@
 
 ##################### SECTION CONFIG SCRIPT ##########################
 # select directories in serching mime type files
-file_types_in_directories="$HOME/Dokumenty/ $HOME/Pobrane/ $HOME/Obrazy/ $HOME/Muzyka/ $HOME/Wideo/ $HOME/Grafika/" ;
+file_types_in_directories="$HOME/Documents/ $HOME/Download/ $HOME/Picture/ $HOME/Musics/ $HOME/Video/ $HOME/Graphics/" ;
 searched_desktop_localizations="/usr/share/applications/ /usr/local/share/applications/ $HOME/.local/share/applications/ /opt/";
 favorite_editor="subl"
 find_xml_file="$HOME"
